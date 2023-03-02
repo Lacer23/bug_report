@@ -1,4 +1,4 @@
-# Health Center Patient Record Management v1.0 has Cross-site scripting (reflected)
+# Health Center Patient Record Management System v1.0 has Cross-site scripting (reflected)
 
 Website source address:https://www.sourcecodester.com/php/11058/health-center-patient-record-management-system.html
 
